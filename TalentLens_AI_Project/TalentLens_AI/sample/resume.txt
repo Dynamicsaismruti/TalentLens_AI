@@ -1,0 +1,1 @@
+Python developer with projects using Python, Flask, REST APIs, MySQL, Machine Learning, NLP, LLMs, Prompt Engineering and AI applications. Familiar with Git, Streamlit and API integration.
