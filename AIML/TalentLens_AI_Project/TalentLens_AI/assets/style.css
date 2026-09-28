@@ -1,0 +1,127 @@
+/* =========================================
+   TALENTLENS AI - PROFESSIONAL UI
+   ========================================= */
+
+.main {
+    padding-top: 1rem;
+}
+
+
+/* ---------- Main Header ---------- */
+
+.hero {
+    padding: 28px;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    background: linear-gradient(
+        135deg,
+        #111827,
+        #1e293b
+    );
+    border: 1px solid #334155;
+}
+
+
+.hero-title {
+    font-size: 42px;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+
+.hero-subtitle {
+    font-size: 17px;
+    color: #cbd5e1;
+}
+
+
+/* ---------- Metric Cards ---------- */
+
+.metric-card {
+    padding: 22px;
+    border-radius: 18px;
+    border: 1px solid #334155;
+    background: #111827;
+    text-align: center;
+    min-height: 130px;
+}
+
+
+.metric-title {
+    font-size: 14px;
+    color: #94a3b8;
+    margin-bottom: 8px;
+}
+
+
+.metric-value {
+    font-size: 32px;
+    font-weight: 800;
+}
+
+
+/* ---------- Section Cards ---------- */
+
+.section-card {
+    padding: 22px;
+    border-radius: 18px;
+    border: 1px solid #334155;
+    background: #0f172a;
+    margin-bottom: 20px;
+}
+
+
+/* ---------- Skill Badges ---------- */
+
+.skill-badge {
+    display: inline-block;
+    padding: 7px 12px;
+    margin: 4px;
+    border-radius: 20px;
+    background: #1e293b;
+    border: 1px solid #475569;
+    font-size: 13px;
+}
+
+
+.skill-match {
+    border-color: #22c55e;
+}
+
+
+.skill-gap {
+    border-color: #f59e0b;
+}
+
+
+/* ---------- Buttons ---------- */
+
+.stButton > button {
+    border-radius: 10px;
+    font-weight: 600;
+    min-height: 42px;
+}
+
+
+/* ---------- Sidebar ---------- */
+
+section[data-testid="stSidebar"] {
+    border-right: 1px solid #334155;
+}
+
+
+/* ---------- Text Input ---------- */
+
+textarea {
+    border-radius: 12px !important;
+}
+
+
+/* ---------- Footer ---------- */
+
+.footer {
+    text-align: center;
+    padding: 30px;
+    color: #94a3b8;
+    font-size: 13px;
+}
